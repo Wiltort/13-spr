@@ -24,8 +24,7 @@ def pp():
         if a1.dict[c]>a2.dict[c]:
             return False
     return True
-        
-    
+
     
 if __name__=="__main__":
     print(pp())
